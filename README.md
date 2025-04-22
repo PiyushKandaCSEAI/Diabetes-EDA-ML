@@ -1,4 +1,4 @@
-# Implementation of EDA and ML to a publicly available dataset - Pima Indians dataset from the National Institute of Diabetes and Digestive and Kidney Diseases for detection of Type 2 Diabetes in Females
+# Implementation of EDA and ML to a publicly available dataset on Diabetes for detection of Type 2 Diabetes in Females
 
 
 This repository contains exploratory data analysis (EDA) performed on a diabetes dataset using R within a Jupyter Notebook environment. The analysis involves data cleaning, visualization, and correlation analysis to understand the underlying patterns in the data.
